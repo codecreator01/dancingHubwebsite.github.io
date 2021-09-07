@@ -81,7 +81,7 @@
 		.startingpage {
 			width: 100vw;
 			height: 60vh;
-			background-image: url("images/img1_background.jpg");
+			background-image: url("img1_background.jpg");
 			background-repeat: no-repeat;
 			background-size: 100vw 100vh;
 		}
@@ -115,18 +115,18 @@
 			margin-left: 25px;
 		}
 		section article:nth-child(1){
-			background-image: url("images/pic1.jpg");
+			background-image: url("pic1.jpg");
 			background-repeat: no-repeat;
 			background-size: contain;
 		}
 		section article:nth-child(2){
-			background-image: url("images/pic2.png");
+			background-image: url("pic2.png");
 			background-repeat: no-repeat;
 			background-size: 220px;
 			background-position:bottom left;
 		}
 		section article:nth-child(3){
-			background-image: url("images/pic3.jpg");
+			background-image: url("pic3.jpg");
 			background-repeat: no-repeat;
 			background-size: contain;
 		}
