@@ -6,6 +6,7 @@
 		body{
 			width: 100vw;
 			overflow-y: scroll;
+			background-image:url("hello.jpg");
 		}
 /*      both navber css for desktop and android*/
 		#navbar {
@@ -81,7 +82,7 @@
 		.startingpage {
 			width: 100vw;
 			height: 60vh;
-			background-image: url("../img1background.jpg");
+			background-image: url("img1background.jpg");
 			background-repeat: no-repeat;
 			background-size: 100vw 100vh;
 		}
